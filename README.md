@@ -31,7 +31,3 @@ I am an engineer transitioning into the world of **Back-End Development**, passi
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-> 💡 *"The journey is as important as the destination. With focus, resilience, and constant learning, I'll get there!"*
-
-✨ Follow me on this journey, and let's build amazing things together! ✨
