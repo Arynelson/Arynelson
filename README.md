@@ -2,8 +2,7 @@
 
 ### Hello, welcome! 👋
 
-I am an engineer transitioning into the world of **Back-End Development**, passionate about technology and constantly seeking new knowledge. 🌍 I lead a nomadic lifestyle and have a dream: **to explore the world** while turning ideas into code.
-
+I am an engineer transitioning into the world of **Back-End Development**, passionate about technology and constantly seeking new knowledge. 
 ---
 
 ## 🌟 About Me
