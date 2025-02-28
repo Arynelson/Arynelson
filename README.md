@@ -15,8 +15,10 @@ I am an engineer transitioning into the world of **Back-End Development**, passi
 
 ---
 
+
 ## 📫 How to Reach Me
 - 📧 **Email:** aryhauffe@gmail.com
+
 
 ---
 
