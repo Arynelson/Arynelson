@@ -1,6 +1,6 @@
 # 👨‍💻 Ary Hauffe - Back-End Developer in the Making!
 
-### Hello, welcome! 👋
+ 👋
 
 I am an engineer transitioning into the world of **Back-End Development**, passionate about technology and constantly seeking new knowledge. 
 ---
