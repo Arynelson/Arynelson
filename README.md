@@ -1,6 +1,6 @@
 # 👨‍💻 Ary Hauffe - Back-End Developer in the Making!
 
- 👋
+ Hi there👋
 
 I am an engineer transitioning into the world of **Back-End Development**, passionate about technology and constantly seeking new knowledge. 
 ---
@@ -9,7 +9,7 @@ I am an engineer transitioning into the world of **Back-End Development**, passi
 
 - 🔭 Currently working on **PipocaÁgil - Project Simulator Ages**
 - 🌱 Learning through the **One - Oracle Next Generation** program
-- 👯 Looking to collaborate on ** Mobile projects **
+- 👯 Looking to collaborate on ** Mobile and App Desktop projects **
 - ⚡ Fun fact: I'm a nomad enthusiast, always exploring new places and cultures.
 
 ---
