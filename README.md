@@ -2,7 +2,7 @@
 
  Hi there👋
 
-I am an engineer transitioning into the world of **Back-End Development**, passionate about technology and constantly seeking new knowledge. 
+I am an engineer transitioning into the world of **Development**, passionate about technology and constantly seeking new knowledge. 
 ---
 
 ## 🌟 About Me
