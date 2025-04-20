@@ -1,4 +1,4 @@
-# 👨‍💻 Ary Hauffe - Back-End Developer in the Making!
+# 👨‍💻 Ary Hauffe - Full-Stack Developer in the Making!
 
  Hi there👋
 
