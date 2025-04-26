@@ -2,7 +2,10 @@
 
  Hi there👋
 
-I am an engineer transitioning into the world of **Development**, passionate about technology and constantly seeking new knowledge. 
+I am Ary Hauffe Neto, a professional transitioning to Fullstack development, with a degree in Sanitary and Environmental Engineering from UFSC. My background combines a foundation in technology – two years of Computer Science and engineering experience, bringing an analytical and structured perspective to problem-solving.
+I am currently in the Oracle One training program and volunteer with Pipoca Ágil (an agile project simulation initiative).
+My international experience, living in Brazil, the USA, Panama, and Italy, has granted me excellent adaptability, global thinking, and ease working in multicultural environments.
+I am passionate about learning, facing challenges, and applying new technologies to create efficient and well-structured solutions.
 ---
 
 ## 🌟 About Me
@@ -25,7 +28,7 @@ I am an engineer transitioning into the world of **Development**, passionate abo
 
 ### Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,8 +37,8 @@ I am an engineer transitioning into the world of **Development**, passionate abo
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 
 ### Backend Technologies
