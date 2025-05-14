@@ -1,6 +1,6 @@
 # 👨‍💻 Ary Hauffe - Full-Stack Developer in the Making!
 
- Hi there👋
+
 
 I am Ary Hauffe Neto, a professional transitioning to Fullstack development, with a degree in Sanitary and Environmental Engineering from UFSC. My background combines a foundation in technology – two years of Computer Science and engineering experience, bringing an analytical and structured perspective to problem-solving.
 I am currently in the Oracle One training program and volunteer with Pipoca Ágil (an agile project simulation initiative).
