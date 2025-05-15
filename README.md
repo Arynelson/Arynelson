@@ -1,5 +1,11 @@
-# 👨‍💻 Ary Hauffe - Full-Stack Developer in the Making!
 
+
+<h1>
+    <a href="[https://arynelson.github.io/Site/]">
+      <span>  Ary Hauffe - Full-Stack Developer </span>
+</h1>
+
+[![Star](https://img.shields.io/github/stars/arynelson)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 
 
 I am Ary Hauffe Neto, a professional transitioning to Fullstack development, with a degree in Sanitary and Environmental Engineering from UFSC. My background combines a foundation in technology – two years of Computer Science and engineering experience, bringing an analytical and structured perspective to problem-solving.
