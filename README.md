@@ -1,5 +1,4 @@
 
-
 <h1>
     <a href="[https://arynelson.github.io/Site/]">
       <span>  Ary Hauffe - Full-Stack Developer </span>
