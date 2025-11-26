@@ -69,4 +69,4 @@ Specialized in **.NET, cloud architecture, and AI integration**, delivering inno
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Prometheus](https://img.shields.io/badge
+
