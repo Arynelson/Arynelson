@@ -1,6 +1,6 @@
 # Ary Hauffe Neto
 
-**Software Engineer **
+**Software Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arynelson.github.io-blue?style=flat-square&logo=github)](https://arynelson.github.io/Site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ary-hauffe-neto-bb6a0a23/)
