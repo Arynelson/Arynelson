@@ -55,7 +55,7 @@ My core stack focuses on **Automation, AI Integration, and Backend Engineering**
 
 ### 💼 Professional Experience
 
-**Automation Engineer (Freelance / Consultant)**
+**Automation Engineer (| UmmixAds**
 *Current | Remote*
 - Architecting complex n8n workflows integrated with **Python (FastAPI)** microservices for clients in AdTech and SaaS.
 - Developing AI-driven pipelines for lead qualification and document processing using **LLMs (Claude/OpenAI)** and vector databases.
@@ -85,14 +85,9 @@ An end-to-end B2B lead pipeline. Webhooks ingest data → Python backend enriche
 *Stack: n8n, OCR, Python*
 Automated PDF invoice extraction using Vision LLMs, followed by a Python validation engine to verify totals and dates, routing exceptions to a human-inbox via Slack interactive messages.
 
----
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arynelson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ary's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arynelson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
+
 
 ---
 
