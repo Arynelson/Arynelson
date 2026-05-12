@@ -3,7 +3,7 @@
 # Ary Hauffe Neto
 ### AI Automation Engineer | Full Stack Developer
 
-[![](https://img.shields.io/badge/EU_Citizen-Italian_&_Brazilian-green?style=for-the-badge)]()
+
 [![](https://img.shields.io/badge/Open_to_Work-Europe_Wide-blue?style=for-the-badge)]()
 [![](https://img.shields.io/badge/Status-Available_Immediately-success?style=for-the-badge)]()
 
